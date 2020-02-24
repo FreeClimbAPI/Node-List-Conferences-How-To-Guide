@@ -1,6 +1,6 @@
 # Node - List Conferences Tutorial
 
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/list-conferences#section-javascript). Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/list-conferences#section-nodejs). Specifically, the project will:
 
 - List information about current and past conferences  
 
